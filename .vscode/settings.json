@@ -1,5 +1,6 @@
 {
   "emmet.triggerExpansionOnTab": true,
   "emmet.useInlineCompletions": false,
-  "emmet.showSuggestionsAsSnippets": false
+  "emmet.showSuggestionsAsSnippets": false,
+  "editor.guides.bracketPairs": true
 }
